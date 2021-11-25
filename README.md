@@ -1,5 +1,5 @@
-# Swanky-Persona-Mods
-This repository is meant to be an archive of sorts for the Persona video game mods that I have created and shared across different sites like ShrineFox.com and GameBanana.
+# Swanky-VideoGame-Mods
+This repository is meant to be an archive of sorts for any type of VideoGame mods that I have created and shared across different sites like ShrineFox.com and GameBanana.
 
 The only mods that aren't present in this repository are my music mods. That is because they all have a pretty hefty size and cannot be uploaded to GitHub.
 These are some external links for them:
